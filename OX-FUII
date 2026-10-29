@@ -47,4 +47,3 @@ end)
 toggle.Activated:Connect(function()
     main.Visible = not main.Visible
 end)
-main.lua
