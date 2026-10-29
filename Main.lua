@@ -1,6 +1,4 @@
 
--- OX_FuII
--- mobile friendly custom hub
 
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
